@@ -1,9 +1,0 @@
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/model/persistence/ReservationsRepository.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/ReservationsController.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/pojo/SiteDto.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/pojo/Authorisation.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/pojo/SiteSearch.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/mapper/SiteMapper.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/ReservationsApplication.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/ReservationsConfiguration.java
-/Users/ramonfourie/.workspace/github/springboot-auth/app.reservations/src/main/java/za/vsp/service/reservations/model/Site.java
