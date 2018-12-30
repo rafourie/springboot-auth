@@ -1,0 +1,1 @@
+curl -vvv -H "Content-Type: application/x-www-form-urlencoded" -X POST --insecure -d "client_id=app.oauth2&username=user1&password=xsw2@wsx&grant_type=password" https://purplelady.dedicated.co.za:9443/auth/realms/master/protocol/openid-connect/token

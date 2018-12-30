@@ -1,0 +1,4 @@
+za/co/app/auth/OAuth2Controller.class
+za/co/app/auth/pojo/Authorisation.class
+za/co/app/auth/OAuth2Application.class
+za/co/app/auth/OAuth2Configuration.class

@@ -1,0 +1,5 @@
+za/co/app/admin/AdminApplication.class
+za/co/app/admin/repository/UserRepository.class
+za/co/app/admin/model/User.class
+za/co/app/admin/AdminConfiguration.class
+za/co/app/admin/AdminController.class
